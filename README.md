@@ -2,12 +2,12 @@
 软件体系结构实验3，B/S软件体系结构电话本设计，前后台一体
 
 # Skill Set
-## 前台
+## 前端
 - Vue3
 - Tailwindcss
 - JavaScript
 
-## 后台
+## 后端
 - express
 - mongoose
 
